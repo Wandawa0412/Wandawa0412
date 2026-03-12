@@ -16,16 +16,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**NKLV ECOS@2026**](https://github.com/Wandawa0412/NKLV) | Desktop worklog manager — Excel import/export, nested groups, smart autocomplete | Python, PySide6, SQLite |
-| [**ChienLuocTraoDoi**](https://github.com/Wandawa0412/ChienLuocTraoDoi) | Dual-agent sales training engine with AI evolution | Python, Gemini AI |
-| [**ThaoLuanEngine**](https://github.com/Wandawa0412/ThaoLuanEngine) | Dual-agent discussion engine with judge-based evaluation | Python, Gemini AI |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
